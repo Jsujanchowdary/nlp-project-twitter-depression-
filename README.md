@@ -21,3 +21,7 @@ The label counts for sentiment_tweets display the distribution of labels assigne
 ![image](https://github.com/Jsujanchowdary/nlp-project-twitter-depression-/assets/91127394/81eceaf8-eb79-49fe-8a34-f74b61d3c6e7)
 
 
+By using under-sampling, the code reduces the number of instances from the majority class, ensuring a more balanced representation of both depressed and non-depressed tweets. This approach helps mitigate the potential bias caused by imbalanced data and improves the accuracy of the depression analysis.
+
+![image](https://github.com/Jsujanchowdary/nlp-project-twitter-depression-/assets/91127394/9325a07a-6590-4ac7-a05b-c3bc1851a4d7)
+
